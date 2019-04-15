@@ -1,0 +1,11 @@
+
+New Error: TypeError: Cannot read property '0' of undefined
+New Error: TypeError: Cannot read property 'latitude' of undefined
+New Error: TypeError: Cannot read property 'latitude' of undefined
+New Error: TypeError: Cannot read property 'then' of undefined
+New Error: TypeError: Cannot read property 'then' of undefined
+New Error: TypeError: Cannot read property 'then' of undefined
+New Error: TypeError: Cannot read property 'then' of undefined
+New Error: TypeError: Cannot read property 'then' of undefined
+New Error: TypeError: Cannot read property 'then' of undefined
+New Error: TypeError: Cannot read property 'then' of undefined
