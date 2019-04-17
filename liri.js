@@ -214,7 +214,7 @@ if (searchParams) {
             name: "searchData"
         }
     ]).then(function (answers) {
-        console.log(answers)
+
         var searchType = answers.searchType;
         var searchParams = answers.searchData;
 

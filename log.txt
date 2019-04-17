@@ -1216,3 +1216,502 @@ Event Date: July 14th 2019
 Venue Name: Gunnersbury Park 
 Venue Location: London, United Kingdom 
 Event Date: July 12th 2019 
+
+Search Command: concert-this
+User Input: chance the rapper 
+
+Venue Name: Gärdet 
+Venue Location: Stockholm, Sweden 
+Event Date: June 28th 2019 
+
+Venue Name: Marlay Park 
+Venue Location: Dublin, Ireland 
+Event Date: July 7th 2019 
+
+Venue Name: Gunnersbury Park 
+Venue Location: London, United Kingdom 
+Event Date: July 12th 2019 
+
+Venue Name: Gunnersbury Park 
+Venue Location: London, United Kingdom 
+Event Date: July 13th 2019 
+
+Venue Name: Rotterdam Ahoy 
+Venue Location: Rotterdam, Netherlands 
+Event Date: July 14th 2019 
+
+Title: The Avengers 
+Released: 04 May 2012 
+IMDB Rating: 8.1/10 
+Produced in: USA 
+Movie Language: English, Russian, Hindi 
+Movie plot: Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity. 
+Actors: Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth 
+
+Search Command: spotify-this-song
+User Input: nico and the niners 
+
+Artist: Twenty One Pilots 
+Song Name: Nico And The Niners 
+Song Preview: https://p.scdn.co/mp3-preview/68f0ee687aa4830c067eb90bb404961af459f530?cid=1a06c91af6ef4c85bc70156fd94c6a7e 
+Album Name: Trench 
+
+Artist: GnuS Cello 
+Song Name: Nico and the Niners - For Cello and Piano 
+Song Preview: https://p.scdn.co/mp3-preview/e95e6bc9030f258e64bad79557bfbb5fedb9ee51?cid=1a06c91af6ef4c85bc70156fd94c6a7e 
+Album Name: Nico and the Niners (For Cello and Piano) 
+
+Artist: Social Repose 
+Song Name: Nico and the Niners - Acapella 
+Song Preview: https://p.scdn.co/mp3-preview/0c98208046c8730b5ebc2c34f8761abba957fd10?cid=1a06c91af6ef4c85bc70156fd94c6a7e 
+Album Name: Nico and the Niners (Acapella) 
+
+Artist: Lij 
+Song Name: Nico and the Niners 
+Song Preview: https://p.scdn.co/mp3-preview/d2402f6af58d8ae2ebc68ccaac58bbf65d4cdeef?cid=1a06c91af6ef4c85bc70156fd94c6a7e 
+Album Name: Nico and the Niners 
+
+Artist: Silent Sunrise 
+Song Name: Nico and the Niners 
+Song Preview: https://p.scdn.co/mp3-preview/81c09caea735b5ed4e03d0e1e901cc619766cbc0?cid=1a06c91af6ef4c85bc70156fd94c6a7e 
+Album Name: Nico and the Niners 
+
+Artist: 8-Bit Arcade 
+Song Name: Nico and the Niners - (8-Bit Twenty One Pilots Emulation) 
+Song Preview: https://p.scdn.co/mp3-preview/b8164931228a60c6a8714c9552e5e0998c211893?cid=1a06c91af6ef4c85bc70156fd94c6a7e 
+Album Name: By Request, Vol. 1 
+
+Artist: Aeryk Bacon 
+Song Name: Nico and the Niners 
+Song Preview: https://p.scdn.co/mp3-preview/a48310f90b2c19bb5b25df25d0b5e602b77fbaad?cid=1a06c91af6ef4c85bc70156fd94c6a7e 
+Album Name: Nico and the Niners 
+
+Artist: Silent Sunrise 
+Song Name: Nico and the Niners 
+Song Preview: https://p.scdn.co/mp3-preview/81c09caea735b5ed4e03d0e1e901cc619766cbc0?cid=1a06c91af6ef4c85bc70156fd94c6a7e 
+Album Name: Banditø 
+
+Artist: 81a 
+Song Name: Nico and the Niners 
+Song Preview: https://p.scdn.co/mp3-preview/4e2f34be1bad8b10a64bccab1e30b634ce720051?cid=1a06c91af6ef4c85bc70156fd94c6a7e 
+Album Name: Nico and the Niners 
+
+Artist: Jester Society 
+Song Name: Nico And The Niners 
+Song Preview: https://p.scdn.co/mp3-preview/900638bd31c8ef5bdf8d236b0e0ca88d0088d6f5?cid=1a06c91af6ef4c85bc70156fd94c6a7e 
+Album Name: Nico And The Niners 
+
+Artist: Silent Sunrise 
+Song Name: Levitate (With Just a Little Help) 
+Song Preview: https://p.scdn.co/mp3-preview/7ba79791d4be0c7d5fe08bfa753282c061b235e1?cid=1a06c91af6ef4c85bc70156fd94c6a7e 
+Album Name: Nico and the Niners 
+
+Artist: Twinkle Twinkle Little Rock Star 
+Song Name: Nico and the Niners 
+Song Preview: https://p.scdn.co/mp3-preview/601e89bf6e00e270e4f4a9825061bc28744353a2?cid=1a06c91af6ef4c85bc70156fd94c6a7e 
+Album Name: Lullaby Versions of Twenty One Pilots (Deluxe Edition) 
+
+Artist: Piano Dreamers 
+Song Name: Nico and the Niners 
+Song Preview: https://p.scdn.co/mp3-preview/04625dc0b158dd711b1f2373733bb1e26ede631f?cid=1a06c91af6ef4c85bc70156fd94c6a7e 
+Album Name: Piano Dreamers Renditions of Twenty One Pilots, Vol. 2 
+
+Artist: Molotov Cocktail Piano 
+Song Name: Nico and the Niners 
+Song Preview: https://p.scdn.co/mp3-preview/8cfe94efba7c621b5c8d875fdb30bbe71caee92f?cid=1a06c91af6ef4c85bc70156fd94c6a7e 
+Album Name: MCP Performs Twenty One Pilots: Trench 
+
+Artist: Ibiza DJ Rockerz 
+Song Name: Nico and the Niners 
+Song Preview: https://p.scdn.co/mp3-preview/a14556dccebd7f717a7c60561a74c74d4a980441?cid=1a06c91af6ef4c85bc70156fd94c6a7e 
+Album Name: Rock Hits Playlist 
+
+Artist: Absolute Smash Hits 
+Song Name: Nico and the Niners 
+Song Preview: https://p.scdn.co/mp3-preview/a14556dccebd7f717a7c60561a74c74d4a980441?cid=1a06c91af6ef4c85bc70156fd94c6a7e 
+Album Name: Trending Hits Playlist 
+
+Artist: Molotov Cocktail Piano 
+Song Name: Nico and the Niners 
+Song Preview: https://p.scdn.co/mp3-preview/bce28399264dde518b247892feebb130201de1d5?cid=1a06c91af6ef4c85bc70156fd94c6a7e 
+Album Name: MCP Top Hits of 2018, Vol. 7 
+
+Artist: Music Box Mania 
+Song Name: Nico and the Niners 
+Song Preview: https://p.scdn.co/mp3-preview/f05d4b42f0d6df8d3b956c3cf18a820748070bb4?cid=1a06c91af6ef4c85bc70156fd94c6a7e 
+Album Name: MBM Performs Twenty One Pilots (Deluxe Edition) 
+
+Artist: Hit The Button Karaoke 
+Song Name: Nico and the Niners (Originally Performed by Twenty One Pilots) - Karaoke Version 
+Song Preview: https://p.scdn.co/mp3-preview/3c698b6949de88de4343720b1c840e286c8b6858?cid=1a06c91af6ef4c85bc70156fd94c6a7e 
+Album Name: Karaoke Picks, Vol. 60 
+
+Artist: Hit The Button Karaoke 
+Song Name: Nico and the Niners (Originally Performed by Twenty One Pilots) - Instrumental Version 
+Song Preview: https://p.scdn.co/mp3-preview/681b29aac8fed54aaec705df064033f581bb8b60?cid=1a06c91af6ef4c85bc70156fd94c6a7e 
+Album Name: Karaoke Picks, Vol. 60 
+
+Venue Name: Gärdet 
+Venue Location: Stockholm, Sweden 
+Event Date: June 28th 2019 
+
+Venue Name: Gunnersbury Park 
+Venue Location: London, United Kingdom 
+Event Date: July 12th 2019 
+
+Venue Name: Gunnersbury Park 
+Venue Location: London, United Kingdom 
+Event Date: July 13th 2019 
+
+Venue Name: Rotterdam Ahoy 
+Venue Location: Rotterdam, Netherlands 
+Event Date: July 14th 2019 
+
+Venue Name: Marlay Park 
+Venue Location: Dublin, Ireland 
+Event Date: July 7th 2019 
+
+Venue Name: Arena Monterrey 
+Venue Location: Monterrey, Mexico 
+Event Date: May 1st 2019 
+
+Venue Name: Sports Palace 
+Venue Location: Mexico City, Mexico 
+Event Date: May 3rd 2019 
+
+Venue Name: Sports Palace 
+Venue Location: Mexico City, Mexico 
+Event Date: May 4th 2019 
+
+Venue Name: ARENA VFG 
+Venue Location: Guadalajara, Mexico 
+Event Date: May 6th 2019 
+
+Venue Name: Pepsi Live at Rogers Arena 
+Venue Location: Vancouver, Canada 
+Event Date: May 12th 2019 
+
+Venue Name: Scotiabank Saddledome 
+Venue Location: Calgary, Canada 
+Event Date: May 14th 2019 
+
+Venue Name: Rogers Place 
+Venue Location: Edmonton, Canada 
+Event Date: May 15th 2019 
+
+Venue Name: Bell MTS Place 
+Venue Location: Winnipeg, Canada 
+Event Date: May 17th 2019 
+
+Venue Name: Budweiser Gardens 
+Venue Location: London, Canada 
+Event Date: May 20th 2019 
+
+Venue Name: Bell Centre 
+Venue Location: Montreal, Canada 
+Event Date: May 22nd 2019 
+
+Venue Name: Richcraft Live at Canadian Tire Centre 
+Venue Location: Ottawa, Canada 
+Event Date: May 21st 2019 
+
+Venue Name: Scotiabank Arena 
+Venue Location: Toronto, Canada 
+Event Date: May 28th 2019 
+
+Venue Name: Scotiabank Arena 
+Venue Location: Toronto, Canada 
+Event Date: May 29th 2019 
+
+Venue Name: Van Andel Arena 
+Venue Location: Grand Rapids, United States 
+Event Date: May 31st 2019 
+
+Venue Name: KeyBank Center 
+Venue Location: Buffalo, United States 
+Event Date: June 1st 2019 
+
+Venue Name: Barclays Center 
+Venue Location: Brooklyn, United States 
+Event Date: June 4th 2019 
+
+Venue Name: Prudential Center 
+Venue Location: Newark, United States 
+Event Date: June 5th 2019 
+
+Venue Name: PPG Paints Arena 
+Venue Location: Pittsburgh, United States 
+Event Date: June 7th 2019 
+
+Venue Name: Boston Calling Music Festival (May 24-26) 
+Venue Location: Boston, United States 
+Event Date: May 24th 2019 
+
+Venue Name: Boardwalk Hall 
+Venue Location: Atlantic City, United States 
+Event Date: June 8th 2019 
+
+Venue Name: John Paul Jones Arena 
+Venue Location: Charlottesville, United States 
+Event Date: June 9th 2019 
+
+Venue Name: Jacksonville Veterans Memorial Arena 
+Venue Location: Jacksonville, United States 
+Event Date: June 14th 2019 
+
+Venue Name: Spectrum Center 
+Venue Location: Charlotte, United States 
+Event Date: June 12th 2019 
+
+Venue Name: PNC Arena 
+Venue Location: Raleigh, United States 
+Event Date: June 11th 2019 
+
+Venue Name: American Airlines Arena 
+Venue Location: Miami, United States 
+Event Date: June 15th 2019 
+
+Venue Name: Amway Center 
+Venue Location: Orlando, United States 
+Event Date: June 16th 2019 
+
+Venue Name: AT&T Center 
+Venue Location: San Antonio, United States 
+Event Date: June 22nd 2019 
+
+Venue Name: Frank Erwin Center 
+Venue Location: Austin, United States 
+Event Date: June 23rd 2019 
+
+Venue Name: Chesapeake Energy Arena 
+Venue Location: Oklahoma City, United States 
+Event Date: June 25th 2019 
+
+Venue Name: FedExForum 
+Venue Location: Memphis, United States 
+Event Date: June 26th 2019 
+
+Venue Name: Bankers Life Fieldhouse 
+Venue Location: Indianapolis, United States 
+Event Date: June 28th 2019 
+
+Venue Name: Nationwide Arena 
+Venue Location: Columbus, United States 
+Event Date: June 29th 2019 
+
+Venue Name: Nationwide Arena 
+Venue Location: Columbus, United States 
+Event Date: June 30th 2019 
+
+Venue Name: Gurtenfestival 2019 (17.07 - 20.07) 
+Venue Location: Bern, Switzerland 
+Event Date: July 17th 2019 
+
+Venue Name: Festival De Nimes 
+Venue Location: Nimes, France 
+Event Date: July 19th 2019 
+
+Venue Name: Legacy Arena at the BJCC 
+Venue Location: Birmingham, United States 
+Event Date: June 18th 2019 
+
+Venue Name: Paléo Festival 
+Venue Location: Nyon, Switzerland 
+Event Date: July 23rd 2019 
+
+Venue Name: Toyota Center 
+Venue Location: Houston, United States 
+Event Date: June 21st 2019 
+
+Venue Name: AUG 9-11: Outside Lands 
+Venue Location: San Francisco, United States 
+Event Date: August 9th 2019 
+
+Venue Name: Sziget Festival 
+Venue Location: Budapest, Hungary 
+Event Date: August 13th 2019 
+
+Venue Name: Pukkelpop 2019 (15.08 - 18.08) 
+Venue Location: Kiewit, Belgium 
+Event Date: August 15th 2019 
+
+Venue Name: Caberet Vert 2019 (22.08 - 25.08) 
+Venue Location: Charleville-mézières, France 
+Event Date: August 22nd 2019 
+
+Venue Name: Reading Festival 
+Venue Location: Reading, United Kingdom 
+Event Date: August 24th 2019 
+
+Venue Name: Leeds Festival 
+Venue Location: Leeds, United Kingdom 
+Event Date: August 25th 2019 
+
+Venue Name: Lollapalooza Berlin 2019 
+Venue Location: Berlin, Germany 
+Event Date: September 7th 2019 
+
+Venue Name: Smoothie King Center 
+Venue Location: New Orleans, United States 
+Event Date: June 19th 2019 
+
+Venue Name: Lollapalooza 2019 (08.01 - 08.04) 
+Venue Location: Chicago, United States 
+Event Date: August 1st 2019 
+
+Venue Name: Lollapalooza 2019 (20.07 - 21.07) 
+Venue Location: Paris, France 
+Event Date: July 20th 2019 
+
+Search Command: concert-this
+User Input: Chance the Rapper 
+
+Venue Name: Gärdet 
+Venue Location: Stockholm, Sweden 
+Event Date: June 28th 2019 
+
+Venue Name: Marlay Park 
+Venue Location: Dublin, Ireland 
+Event Date: July 7th 2019 
+
+Venue Name: Gunnersbury Park 
+Venue Location: London, United Kingdom 
+Event Date: July 12th 2019 
+
+Venue Name: Gunnersbury Park 
+Venue Location: London, United Kingdom 
+Event Date: July 13th 2019 
+
+Venue Name: Rotterdam Ahoy 
+Venue Location: Rotterdam, Netherlands 
+Event Date: July 14th 2019 
+
+Search Command: spotify-this-song
+User Input: I want it that way 
+
+Artist: Backstreet Boys 
+Song Name: I Want It That Way 
+Song Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=1a06c91af6ef4c85bc70156fd94c6a7e 
+Album Name: The Hits--Chapter One 
+
+Artist: Backstreet Boys 
+Song Name: I Want It That Way 
+Song Preview: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=1a06c91af6ef4c85bc70156fd94c6a7e 
+Album Name: Millennium 
+
+Artist: Mick Jensen 
+Song Name: I Want It That Way 
+Song Preview: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=1a06c91af6ef4c85bc70156fd94c6a7e 
+Album Name: I Want It That Way 
+
+Artist: Various Artists 
+Song Name: I Want It That Way 
+Song Preview: null 
+Album Name: Punk Goes Pop 
+
+Artist: Various Artists 
+Song Name: I Want It That Way 
+Song Preview: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=1a06c91af6ef4c85bc70156fd94c6a7e 
+Album Name: 90 Sweet 90s Hits! 
+
+Artist: NKOTBSB 
+Song Name: I Want It That Way 
+Song Preview: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=1a06c91af6ef4c85bc70156fd94c6a7e 
+Album Name: NKOTBSB 
+
+Artist: Steel Panther 
+Song Name: I Want It That Way 
+Song Preview: null 
+Album Name: I Want It That Way 
+
+Artist: Glee Cast 
+Song Name: Bye Bye Bye / I Want It That Way (Glee Cast Version) 
+Song Preview: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=1a06c91af6ef4c85bc70156fd94c6a7e 
+Album Name: Bye Bye Bye / I Want It That Way (Glee Cast Version) 
+
+Artist: Manuel Costa 
+Song Name: I Want It That Way 
+Song Preview: https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=1a06c91af6ef4c85bc70156fd94c6a7e 
+Album Name: I Want It That Way 
+
+Artist: Boyce Avenue 
+Song Name: I Want It That Way 
+Song Preview: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=1a06c91af6ef4c85bc70156fd94c6a7e 
+Album Name: Cover Sessions, Vol. 2 
+
+Artist: Scary Pockets 
+Song Name: I Want It That Way 
+Song Preview: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=1a06c91af6ef4c85bc70156fd94c6a7e 
+Album Name: Nu Funk 
+
+Artist: Scott Bradlee's Postmodern Jukebox 
+Song Name: I Want It That Way 
+Song Preview: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=1a06c91af6ef4c85bc70156fd94c6a7e 
+Album Name: Selfies on Kodachrome 
+
+Artist: Various Artists 
+Song Name: I Want It That Way 
+Song Preview: https://p.scdn.co/mp3-preview/e917efb886afa262114a59cbdbdb6fe8bef57583?cid=1a06c91af6ef4c85bc70156fd94c6a7e 
+Album Name: Ballads in Bossa (The Colors of Love Ballads) 
+
+Artist: Kidz Bop Kids 
+Song Name: I Want It That Way 
+Song Preview: null 
+Album Name: Kidz Bop 
+
+Artist: "Weird Al" Yankovic 
+Song Name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys) 
+Song Preview: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=1a06c91af6ef4c85bc70156fd94c6a7e 
+Album Name: The Essential "Weird Al" Yankovic 
+
+Artist: Various Artists 
+Song Name: I Want It That Way 
+Song Preview: https://p.scdn.co/mp3-preview/c9302062adf4f59e60335f30c7ca46b487a267fb?cid=1a06c91af6ef4c85bc70156fd94c6a7e 
+Album Name: NOW That's What I Call 90s Pop 
+
+Artist: Original Off-Broadway Cast of Cruel Intentions 
+Song Name: I Want It That Way 
+Song Preview: null 
+Album Name: Cruel Intentions: The '90s Musical 
+
+Artist: "Weird Al" Yankovic 
+Song Name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys) 
+Song Preview: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=1a06c91af6ef4c85bc70156fd94c6a7e 
+Album Name: Poodle Hat 
+
+Artist: Tyler and Mark 
+Song Name: I Want It That Way 
+Song Preview: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=1a06c91af6ef4c85bc70156fd94c6a7e 
+Album Name: Beautiful Dreams 
+
+Artist: Anthem Lights 
+Song Name: I Want It That Way 
+Song Preview: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=1a06c91af6ef4c85bc70156fd94c6a7e 
+Album Name: Covers Part IV 
+
+User Input: Titanic 
+
+Search Command: movie-this
+Title: Titanic 
+Released: 19 Dec 1997 
+IMDB Rating: 7.8/10 
+Produced in: USA 
+Movie Language: English, Swedish, Italian 
+Movie plot: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic. 
+Actors: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates 
+
+Title: The Terminator 
+Released: 26 Oct 1984 
+IMDB Rating: 8.0/10 
+Produced in: UK, USA 
+Movie Language: English, Spanish 
+Movie plot: A seemingly indestructible android is sent from 2029 to 1984 to assassinate a waitress, whose unborn son will lead humanity in a war against the machines, while a soldier from that war is sent to protect her at all costs. 
+Actors: Arnold Schwarzenegger, Michael Biehn, Linda Hamilton, Paul Winfield 
+
+Title: The Terminator 
+Released: 26 Oct 1984 
+IMDB Rating: 8.0/10 
+Produced in: UK, USA 
+Movie Language: English, Spanish 
+Movie plot: A seemingly indestructible android is sent from 2029 to 1984 to assassinate a waitress, whose unborn son will lead humanity in a war against the machines, while a soldier from that war is sent to protect her at all costs. 
+Actors: Arnold Schwarzenegger, Michael Biehn, Linda Hamilton, Paul Winfield 
